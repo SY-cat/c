@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="ssf">
+      <UniqueIdentifier>{ebc34778-88a8-4676-b0da-f0f4cec56f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sjjg">
+      <UniqueIdentifier>{00eb1654-ac49-4eea-a145-a94ae8c4de6e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\real.c">
+      <Filter>ssf</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\exchange.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\mallloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\2jizhizhen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\sxb.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\dlb.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\parice08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\zhan.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构\真题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\名字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\个十百.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\三元.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\逗号.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\分支\游戏伤害.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\电影院.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\分支\if3.0.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\分支\switch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\正逆序输出数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\累加求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\NewFolder1\2的幂次方.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\喜马拉雅·.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\整数反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\算数平方根.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\回文数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\除法实现.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环\整出数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\吃包子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\循环嵌套.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\九九乘法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\判断质数（不会）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\特殊数字（不会）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="真题24\22年44.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="真题24\24（不会）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\循环高级\15之和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\函数\函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\函数\根据形参打印.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\函数\营业额.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\函数\面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\函数\随机数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\数组\数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\数组\数组最值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\数组\数组求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\数组\数组反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="真题24\剔除非数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\查找排序\顺序查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\查找排序\二分查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\查找排序\二分优化.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\查找排序\冒泡泡.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\查找排序\选择排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\指针\void指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\指针\指针便利.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\指针\遍历不等长2维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\指针\遍历二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\字符串\字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\字符串\用户登录.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\字符串\统计字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\结构体\结构体类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.0\结构体\结构体嵌套.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
